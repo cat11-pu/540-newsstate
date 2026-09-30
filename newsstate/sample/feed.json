@@ -1,0 +1,231 @@
+{
+  "config": {
+    "preferUpstreamId": true,
+    "normalizeTitle": true,
+    "caseFoldTitle": true,
+    "timeToleranceSeconds": 120,
+    "allowTitleUpdate": true,
+    "expireAfterSeconds": 600,
+    "zoneOffset": "+02:00"
+  },
+  "seen": [
+    {
+      "key": "id:eil-260930-01",
+      "upstreamId": "eil-260930-01",
+      "headline": "EILMELDUNG: BUNDESTAG BESCHLIESST KLIMAGELD-REFORM",
+      "lastSeenAt": "2026-09-30T08:55:00Z",
+      "category": "inland",
+      "summary": "Reform des Klimageldes beschlossen."
+    },
+    {
+      "key": "id:eil-260930-02",
+      "upstreamId": "eil-260930-02",
+      "headline": "Warnstreik im Nahverkehr trifft mehrere Sta\u0308dte",
+      "lastSeenAt": "2026-09-30T08:56:00Z",
+      "category": "wirtschaft",
+      "summary": "Ver.di ruft zum Warnstreik auf."
+    },
+    {
+      "key": "",
+      "upstreamId": "",
+      "headline": "Kipppunkt am Mittag: Temperaturrekord in Hamburg",
+      "lastSeenAt": "2026-09-30T08:57:00Z",
+      "category": "inland",
+      "summary": "Rekordwert am Mittag gemessen."
+    },
+    {
+      "key": "id:eil-260930-04",
+      "upstreamId": "eil-260930-04",
+      "headline": "Unwetterwarnung fuer den Norden aufgehoben",
+      "lastSeenAt": "2026-09-30T07:00:00Z",
+      "category": "inland",
+      "summary": "Der DWD hat die Warnung aufgehoben."
+    },
+    {
+      "key": "id:eil-260930-03",
+      "upstreamId": "eil-260930-03",
+      "headline": "Kipppunkt am Mittag: Temperaturrekord in Hamburg",
+      "lastSeenAt": "2026-09-30T08:58:00Z",
+      "category": "inland",
+      "summary": "Rekordwert am Mittag gemessen."
+    }
+  ],
+  "observations": [
+    {
+      "seq": 1,
+      "at": "2026-09-30T09:00:00Z",
+      "items": [
+        {
+          "id": "eil-260930-01",
+          "headline": "Eilmeldung: Bundestag beschliesst Klimageld-Reform",
+          "date": "Stand: 30.09.2026 10:58 Uhr",
+          "url": "/inland/klimageld-reform-100.html",
+          "text": "Reform des Klimageldes beschlossen."
+        },
+        {
+          "id": "eil-260930-05",
+          "headline": "Chemieunfall in Ludwigshafen: Werk evakuiert",
+          "date": "Stand: 30.09.2026 10:59 Uhr",
+          "url": "/inland/chemieunfall-ludwigshafen-100.html",
+          "text": "Werk in Ludwigshafen evakuiert."
+        },
+        {
+          "id": "eil-260930-04",
+          "headline": "Unwetterwarnung fuer den Norden aufgehoben",
+          "date": "Stand: 30.09.2026 10:45 Uhr",
+          "url": "/inland/unwetterwarnung-norden-100.html",
+          "text": "Der DWD hat die Warnung aufgehoben."
+        },
+        {
+          "id": "",
+          "headline": "Kipppunkt am Mittag: Temperaturrekord in Hamburg",
+          "date": "Stand: 30.09.2026 10:57 Uhr",
+          "url": "/inland/kipppunkt-hamburg-100.html",
+          "text": "Rekordwert am Mittag gemessen."
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "at": "2026-09-30T09:05:00Z",
+      "items": [
+        {
+          "id": "eil-260930-01",
+          "headline": "Eilmeldung: Bundestag beschliesst Klimageld-Reform",
+          "date": "Stand: 30.09.2026 11:03 Uhr",
+          "url": "/inland/klimageld-reform-100.html",
+          "text": "Reform des Klimageldes beschlossen."
+        },
+        {
+          "id": "eil-260930-02",
+          "headline": "Warnstreik im Nahverkehr trifft mehrere Stadte",
+          "date": "Stand: 30.09.2026 11:03 Uhr",
+          "url": "/wirtschaft/warnstreik-nahverkehr-100.html",
+          "text": "Ver.di ruft zum Warnstreik auf."
+        },
+        {
+          "id": "",
+          "headline": "Warnstreik im Nahverkehr trifft mehrere Sta\u0308dte",
+          "date": "Stand: 30.09.2026 11:04 Uhr",
+          "url": "/wirtschaft/warnstreik-nahverkehr-100.html",
+          "text": "Ver.di ruft zum Warnstreik auf."
+        },
+        {
+          "id": "eil-260930-04",
+          "headline": "Unwetterwarnung fuer den Norden aufgehoben",
+          "date": "Stand: 30.09.2026 11:02 Uhr",
+          "url": "/inland/unwetterwarnung-norden-100.html",
+          "text": "Der DWD hat die Warnung aufgehoben."
+        },
+        {
+          "id": "",
+          "headline": "Chemieunfall in Ludwigshafen: Werk evakuiert",
+          "date": "Stand: 30.09.2026 11:00 Uhr",
+          "url": "/inland/chemieunfall-ludwigshafen-100.html",
+          "text": "Werk in Ludwigshafen evakuiert."
+        },
+        {
+          "id": "eil-260930-07",
+          "headline": "Tarifrunde im Handwerk vertagt",
+          "date": "30.09.2026 11:04",
+          "url": "/wirtschaft/tarifrunde-handwerk-100.html",
+          "text": "Die Tarifrunde wurde vertagt."
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "at": "2026-09-30T09:10:00Z",
+      "items": [
+        {
+          "id": "eil-260930-01",
+          "headline": "Eilmeldung: Bundestag beschliesst Klimageld-Reform in erster Lesung",
+          "date": "Stand: 30.09.2026 11:08 Uhr",
+          "url": "/inland/klimageld-reform-100.html",
+          "text": "Der Bundestag hat die Reform in erster Lesung beschlossen."
+        },
+        {
+          "id": "eil-260930-05",
+          "headline": "Chemieunfall in Ludwigshafen: Werk evakuiert",
+          "date": "Stand: 30.09.2026 10:40 Uhr",
+          "url": "/inland/chemieunfall-ludwigshafen-100.html",
+          "text": "Werk in Ludwigshafen evakuiert."
+        },
+        {
+          "id": "",
+          "headline": "Bahnstreik in Frankreich angekuendigt",
+          "date": "Stand: 30.09.2026 11:09 Uhr",
+          "url": "/ausland/bahnstreik-frankreich-100.html",
+          "text": "Die SNCF kuendigt einen Streik an."
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "at": "2026-09-30T09:50:00Z",
+      "items": [
+        {
+          "id": "eil-260930-08",
+          "headline": "Meldung ohne verwertbaren Link",
+          "date": "Stand: 30.09.2026 11:48 Uhr",
+          "url": "",
+          "text": "Diese Meldung hat keinen Link."
+        },
+        {
+          "id": "eil-260930-10",
+          "headline": "   ",
+          "date": "Stand: 30.09.2026 11:48 Uhr",
+          "url": "/inland/leere-schlagzeile-100.html",
+          "text": "Schlagzeile fehlt."
+        },
+        {
+          "id": "eil-260930-09",
+          "headline": "Tarifstreit im Einzelhandel: Warnstreik am Freitag",
+          "date": "Stand: 30.09.2026 11:48 Uhr",
+          "url": "/wirtschaft/tarifstreit-einzelhandel-100.html",
+          "text": "Ver.di kuendigt einen Warnstreik an."
+        },
+        {
+          "id": "eil-260930-09",
+          "headline": "Tarifstreit im Einzelhandel: Warnstreik verschoben",
+          "date": "Stand: 30.09.2026 11:49 Uhr",
+          "url": "/wirtschaft/tarifstreit-einzelhandel-100.html",
+          "text": "Der Warnstreik wird verschoben."
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "at": "2026-09-30T09:55:00Z",
+      "items": [
+        {
+          "id": "eil-260930-01",
+          "headline": "Eilmeldung: Bundestag beschliesst Klimageld-Reform in erster Lesung",
+          "date": "Stand: 30.09.2026 11:53 Uhr",
+          "url": "/inland/klimageld-reform-100.html",
+          "text": "Der Bundestag hat die Reform in erster Lesung beschlossen."
+        },
+        {
+          "id": "eil-260930-04",
+          "headline": "Unwetterwarnung fuer den Norden aufgehoben",
+          "date": "Stand: 30.09.2026 11:54 Uhr",
+          "url": "/inland/unwetterwarnung-norden-100.html",
+          "text": "Der DWD hat die Warnung aufgehoben."
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "at": "2026-09-30T10:01:00Z",
+      "items": [
+        {
+          "id": "eil-260930-01",
+          "headline": "Eilmeldung: Bundestag beschliesst Klimageld-Reform in erster Lesung",
+          "date": "Stand: 30.09.2026 11:58 Uhr",
+          "url": "/inland/klimageld-reform-100.html",
+          "text": "Der Bundestag hat die Reform in erster Lesung beschlossen."
+        }
+      ]
+    }
+  ]
+}
